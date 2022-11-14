@@ -1,0 +1,12 @@
+GUI : Graphic User Interface
+CLI : Command Line Interface --> ติดต่อกับ Kernel ผ่าน Shell
+
+Shell
+- Zsh
+- Command prompt
+- powershell
+- bash
+
+
+UNIX ==> Linux, apple ( base on UNIX)
+Microsoft (Windows)
