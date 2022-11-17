@@ -5,3 +5,6 @@ git command after push origin
 
 git remote -v ดูว่า git connect เรียบร้อยแล้วหรือยัง
 git remote add origin https
+
+
+test git push after create branch develop
