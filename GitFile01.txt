@@ -1,2 +1,7 @@
 gitfile01
 edit001
+
+git command
+
+git remote -v ดูว่า git connect เรียบร้อยแล้วหรือยัง
+git remote add origin https
